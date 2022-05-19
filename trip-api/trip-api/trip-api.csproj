@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>trip_api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.27.0" />
+    <PackageReference Include="Microsoft.Azure.DocumentDB.Core" Version="2.18.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.24.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+  </ItemGroup>
+
+
+</Project>

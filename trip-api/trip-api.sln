@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trip-api", "trip-api\trip-api.csproj", "{6989CD7A-FEE5-4C8B-AF3B-61D1E37657FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6989CD7A-FEE5-4C8B-AF3B-61D1E37657FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6989CD7A-FEE5-4C8B-AF3B-61D1E37657FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6989CD7A-FEE5-4C8B-AF3B-61D1E37657FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6989CD7A-FEE5-4C8B-AF3B-61D1E37657FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82925F19-1FEF-41D6-9253-EF1E06DF1C84}
+	EndGlobalSection
+EndGlobal
